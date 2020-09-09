@@ -24,7 +24,10 @@
 
 
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=alensaito1&show_icons=true" alt="alensaito1" /></p>
+[![ Alen's github stats](https://github-readme-stats.vercel.app/api?username=Alensaito1&show_icons=true&hide_border=true&hide=issues)](https://github.com/Alensaito1)
+
+
+
 
 
 
