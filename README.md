@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Alen Yohannan</h1>
 <h3 align="center">Courage need not to be remembered, for it is never forgotten</h3>
 
+<img align="right" alt="GIF" height="125px" src="https://media1.tenor.com/images/9e81ca58a97e39b7e7868d5f312f7f46/tenor.gif" />
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alensaito1" alt="alensaito1" /> </p>
 
 - 🔭 I’m currently working on [Whatsapp-Botto-Re](https://github.com/SomnathDas/Whatsapp-Botto-Re)
