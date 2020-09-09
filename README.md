@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Javascript and Go**
 
-- 💬 Ask me about **Zelda**
+- 💬 Ask me about **Nintendo**
 
 - 📫 How to reach me **alenyohannan71@gmail.com**
 
