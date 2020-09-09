@@ -1,3 +1,5 @@
+<script src="https://unpkg.com/@open-wa/whatsapp-button?module" type="module"></script>
+
 <h1 align="center">Hi there 👋, I'm Alen Yohannan</h1>
 <h3 align="center">Courage need not to be remembered, for it is never forgotten</h3>
 
@@ -25,7 +27,7 @@
 [![ Alen's github stats](https://github-readme-stats.vercel.app/api?username=Alensaito1&show_icons=true&hide_border=true&hide=issues)](https://github.com/Alensaito1)
 
 
-
+<whatsapp-button phone="9744375687" dialcode="91" text="Hey there lets chat!" label="Start Chat"></whatsapp-button>
 
 
 
