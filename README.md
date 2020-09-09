@@ -24,7 +24,7 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alensaito1&show_icons=true" alt="alensaito1" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=alensaito1&show_icons=true" alt="alensaito1" /></p>
 
 
 
