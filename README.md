@@ -1,4 +1,3 @@
-<script src="https://unpkg.com/@open-wa/whatsapp-button?module" type="module"></script>
 
 <h1 align="center">Hi there 👋, I'm Alen Yohannan</h1>
 <h3 align="center">Courage need not to be remembered, for it is never forgotten</h3>
